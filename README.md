@@ -11,8 +11,6 @@ I'm a graduation student at FGV EMAp under Data Science and Artificial Inteligen
 - 🤖 Artificial Intelligence 
 - 📊 Data viz
 
-## Currently learning, but I'm mostly into:
-
 
 <div>
   <a href = "https://www.linkedin.com/in/ana-carolina-erthal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
