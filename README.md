@@ -1,6 +1,6 @@
 ### Hey, I'm Carol! 👋
 
-I'm a graduation student at FGV EMAp under Data Science and Artificial Inteligence bachelor degree. 
+I'm a graduation student at FGV EMAp under Data Science and Artificial Inteligence bachelor's degree. 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacarolerthal&theme=algolia)
 
