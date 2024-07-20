@@ -1,17 +1,16 @@
 ### Hey, I'm Carol! 👋
 
-I'm a graduation student at FGV EMAp under Data Science and Artificial Inteligence bachelor's degree. 
+I'm an undergraduate in Data Science and Artificial Inteligence at FGV EMAp. 
+- 🤖 My main interests nowadays are Machine Learning and Artificial Intelligence in general! Keeping up to new models makes me quite excited!
+- 🎯 I've become interested in AI Alignment recently, and have been diving deeper into interpretability topics ever since.
+- 📚 I'm into reading for fun! You find me on Skoob in [@anacarolerthal](https://www.skoob.com.br/usuario/7446861-carolerthal)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anacarolerthal&theme=algolia)
-
-
-## Currently learning, but I'm mostly into:
-
-- 💻 Machine Learning 
-- 🤖 Artificial Intelligence 
-- 📊 Data viz
+You can reach out to me through <a href = "mailto:acarolerthal@gmail.com" target="_blank"> ```acarolerthal@gmail.com```, and I'm also at [LinkedIn](https://www.linkedin.com/in/ana-carolina-erthal/).
 
 
-<div>
-  <a href = "https://www.linkedin.com/in/ana-carolina-erthal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+### 📰 Recent Updates
+
+**June, 2024**
+- I'm attending ML4GOOD Brazil, an intensive in-person bootcamp to upskill in AI Safety and Deep Learning.
+- I got accepted to Fieldbuilder Supporting Program (FSP)!
+- Finishing my upskilling process in Transformers Mechanistic Interpretability under Condor Initiave's funding! A handbook on the matter was produced out of it, and I expect to make it public soon! 
