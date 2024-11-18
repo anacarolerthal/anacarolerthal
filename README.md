@@ -1,6 +1,6 @@
 ### Hey, I'm Carol! 👋
 
-I'm an undergraduate in Data Science and Artificial Inteligence at FGV EMAp. 
+I'm an undergraduate in Data Science and Artificial Intelligence at FGV EMAp. 
 - 🤖 My main interests nowadays are Machine Learning and Artificial Intelligence in general! Keeping up to new models makes me quite excited!
 - 🎯 I've become interested in AI Alignment recently, and have been diving deeper into interpretability topics ever since.
 - 📚 I'm into reading for fun! You find me on Skoob in [@anacarolerthal](https://www.skoob.com.br/usuario/7446861-carolerthal)
