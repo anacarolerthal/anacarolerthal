@@ -5,7 +5,7 @@ I'm an undergraduate in Data Science and Artificial Intelligence at FGV EMAp.
 - 🎯 I've become interested in AI Alignment recently, and have been diving deeper into interpretability topics ever since.
 - 📚 I'm into reading for fun! You find me on Skoob in [@anacarolerthal](https://www.skoob.com.br/usuario/7446861-carolerthal)
 
-You can reach out to me through <a href = "mailto:acarolerthal@gmail.com" target="_blank"> ```acarolerthal@gmail.com```, and I'm also at [LinkedIn](https://www.linkedin.com/in/ana-carolina-erthal/).
+You can reach out to me through <a href = "mailto:acarolerthal@gmail.com" target="_blank"> ```acarolerthal@gmail.com```, and I'm also on [LinkedIn](https://www.linkedin.com/in/ana-carolina-erthal/).
 
 
 ### 📰 Recent Updates
